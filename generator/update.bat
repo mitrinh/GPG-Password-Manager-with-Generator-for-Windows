@@ -1,0 +1,1 @@
+g++ -o "Generate Password.exe" main.cpp
