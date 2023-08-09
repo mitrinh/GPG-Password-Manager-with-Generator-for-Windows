@@ -1,5 +1,7 @@
 Free to use password manager with GPG encryption with ascii armoring for Windows only.
 
+NOTE: For frequent encrypt/decrypt usage, harcoding gpg username in the batch files will be better. 
+
 ## Features:
   - Password generator includes alphanumeric as well as some special characters.
   - Batch files created to perform encryption / decryption and automatically save to your clipboard.
